@@ -7,5 +7,4 @@ export const ACCEPTED_ORIGIN = [
   "http://localhost:3000",
   "http://localhost:5173",
   "https://crendon.es",
-  "*",
 ];
