@@ -1,0 +1,93 @@
+[
+  {
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC-1ijkM-dpn5Q_RwuH9YmdVM6DV1RkMYnNJ8PG7zNauIchGGUKdSjAfLZHFVoe8hxO_495u3V_EZoJ56_1viRZgtKzIn3rA2PqTb-7lgrnA4WuM-5LYViGAO7YMxU86hqVAGDZ_pZHWJdNEuTzw3L94sgisXg_XQOQyBnzU1k3wAZlDCpbALYyk34Knczqx2Hv6MJgTTNjbeKPRqNeB4vFQpJ5eIruP07G4uqnMMf5FQbkkdaFFZrimuUwI3yubcLun81zoEb7SQU",
+    "id": "7a4d1d8b-1e45-4d8c-9f1a-8c2f9a9121a4",
+    "titulo": "Desarrollador de Software Senior",
+    "empresa": "Tech Solutions Inc.",
+    "ubicacion": "Remoto",
+    "descripcion": "Buscamos un ingeniero de software con experiencia en desarrollo web y conocimientos en JavaScript, React y Node.js. El candidato ideal debe ser capaz de trabajar en equipo y tener buenas habilidades de comunicación.",
+    "data": {
+      "technology": "javascript",
+      "modalidad": "remoto",
+      "nivel": "senior"
+    }
+  },
+  {
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD1xUXz8FJvX3G9kYfQ2Jx7Q9xP4m2Jr7ZP9Yw1N0",
+    "id": "c1f8a4e2-9b2d-4a1b-9c5d-12f4b8e7a901",
+    "titulo": "Frontend Developer",
+    "empresa": "Creative Web Studio",
+    "ubicacion": "Híbrido - Madrid",
+    "descripcion": "Buscamos un desarrollador frontend con experiencia en React, HTML5 y CSS3. Valoramos atención al detalle y pasión por el diseño de interfaces.",
+    "data": {
+      "technologys": ["react", "css", "html"],
+      "modalidad": "hibrido",
+      "nivel": "mid"
+    }
+  },
+  {
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuE4BqzR1wL9K2A0N8SxZ",
+    "id": "e9b3d7c4-2a5e-4d9a-bf8e-3a92c6d4e221",
+    "titulo": "Backend Developer",
+    "empresa": "Cloud Systems",
+    "ubicacion": "Remoto",
+    "descripcion": "Se requiere desarrollador backend con experiencia en Node.js, bases de datos SQL y APIs REST. Experiencia en AWS es un plus.",
+    "data": {
+      "technologys": ["nodejs"],
+      "modalidad": "remoto",
+      "nivel": "mid"
+    }
+  },
+  {
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuF9R3mN4Z2L0J8Q",
+    "id": "b6a2c9f1-6e4d-4b91-8f2a-7d93a5c6e888",
+    "titulo": "Desarrollador Full Stack",
+    "empresa": "Startup Factory",
+    "ubicacion": "Presencial - Barcelona",
+    "descripcion": "Buscamos un desarrollador full stack con conocimientos en JavaScript, React y MongoDB. Ambiente dinámico y orientado a startups.",
+    "data": {
+      "technologys": ["javascript", "react", "mongodb"],
+      "modalidad": "presencial",
+      "nivel": "junior"
+    }
+  },
+  {
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuGJ2T9M1Q",
+    "id": "f2d7e5a8-3c91-4a2e-8b1c-9a8f2e7d4444",
+    "titulo": "Ingeniero DevOps",
+    "empresa": "InfraTech Global",
+    "ubicacion": "Remoto",
+    "descripcion": "Responsable de la automatización de despliegues y mantenimiento de infraestructura en la nube. Experiencia con Docker y Kubernetes requerida.",
+    "data": {
+      "technologys": ["devops"],
+      "modalidad": "remoto",
+      "nivel": "senior"
+    }
+  },
+  {
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuH8P0WZL",
+    "id": "a9c3e7d2-5f8b-4c3e-9a2d-1b7e9c5d7777",
+    "titulo": "Mobile Developer",
+    "empresa": "App Innovators",
+    "ubicacion": "Híbrido - Valencia",
+    "descripcion": "Desarrollador mobile con experiencia en Flutter o React Native para crear aplicaciones de alto rendimiento.",
+    "data": {
+      "technologys": ["mobile"],
+      "modalidad": "hibrido",
+      "nivel": "mid"
+    }
+  },
+  {
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuJ1QZ8M",
+    "id": "d4e8f9a1-2b7c-4d9e-8a6c-5e1b3d9f6666",
+    "titulo": "QA Automation Engineer",
+    "empresa": "Quality First",
+    "ubicacion": "Remoto",
+    "descripcion": "Encargado de crear y mantener pruebas automatizadas. Experiencia con Selenium, Cypress o Playwright.",
+    "data": {
+      "technologys": ["qa"],
+      "modalidad": "remoto",
+      "nivel": "mid"
+    }
+  }
+]
