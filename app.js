@@ -4,7 +4,7 @@ import { corsMiddelware } from "./middelwares/cors.js";
 import jobsRouter from "./routes/jobs.js";
 
 process.loadEnvFile();
-const PORT = process.env.PORT || DEFAULTS.PORT;
+const PORT = process.env.PORT ?? DEFAULTS.PORT;
 const app = express();
 
 app.use(corsMiddelware());
